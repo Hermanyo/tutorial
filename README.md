@@ -1,6 +1,6 @@
 @Em relação as configurações internas:
 
-Crie um arquivo com o nome de <code>local.properties</code> na pasta <code>/../GuiaUFS/android</code> dentro dele coloque o seguinte caminho, <code>sdk.dir = /home/nome_de_usuario/pasta_do_sdk/sdk</code>, geralmente o caminho tem como padrão a pasta android, ex.: <code>sdk.dir = /home/nome_de_usuario/Android/Sdk</code> 
+Crie um arquivo com o nome de <code>local.properties</code> na pasta <code>/../PASTA_DO_APP/android</code> dentro dele coloque o seguinte caminho, <code>sdk.dir = /home/nome_de_usuario/pasta_do_sdk/sdk</code>, geralmente o caminho tem como padrão a pasta android, ex.: <code>sdk.dir = /home/nome_de_usuario/Android/Sdk</code> 
 
 
 @Em relação ao ambiente de desenvolvimento: 
